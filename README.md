@@ -5,8 +5,8 @@ Entfernt die Weißen Ränder und gibt den Elementen mehr Platz
 ## nachher:
 ![WidescreenPraktomat](./Images/WidescreenPraktomat.png)
 # Installation:
-Bisher ist das addon nur für Firefox, Opera beta und Opera developer verfügbar.</br>
-Für andere Browser ist ein Userscript verfügbar</br>
+Bisher ist das addon nur für [Firefox](#Firefox), Opera beta und Opera developer verfügbar.</br>
+Für andere Browser ist ein [Userscript](#Userscript-(Opera,-chrome,-Edge)) verfügbar</br>
 Bei Fragen bin ich unter piet-frerik.marx@stud.hs-emden-leer.de erreichbar
 ## Firefox:
 1. Klicke auf diesen [Link](https://addons.mozilla.org/en-US/firefox/addon/widescreen-praktomat-emden/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) um auf den offiziellen Firefox addon store zu kommen.
@@ -15,7 +15,7 @@ Bei Fragen bin ich unter piet-frerik.marx@stud.hs-emden-leer.de erreichbar
 3. Bestätige es im popup oben rechts
 ![Confirm add](./Images/ConfirmAdd.png)
 4. Fertig!
-## Opera, chrome, Edge, etc...
+## Userscript (Opera, chrome, Edge, etc...)
 1. Lade die [Zip datei](https://github.com/AderynCrow/WidescreenPraktomatExtension/raw/main/WidescreenPraktomat.zip) herunter
 2. Instaliere ein Userscript addon. Beispielsweise greasemonkey oder tamppermonkey
 3. Öffne das Addon
