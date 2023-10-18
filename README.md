@@ -6,7 +6,7 @@ Entfernt die Weißen Ränder und gibt den Elementen mehr Platz
 ![WidescreenPraktomat](./Images/WidescreenPraktomat.png)
 # Installation:
 Bisher ist das addon nur für [Firefox](#Firefox), Opera beta und Opera developer verfügbar.</br>
-Für andere Browser ist ein [Userscript](#Userscript-(Opera,-chrome,-Edge)) verfügbar</br>
+Für andere Browser ist ein [Userscript](#userscript-opera-chrome-edge-etc) verfügbar</br>
 Bei Fragen bin ich unter piet-frerik.marx@stud.hs-emden-leer.de erreichbar
 ## Firefox:
 1. Klicke auf diesen [Link](https://addons.mozilla.org/en-US/firefox/addon/widescreen-praktomat-emden/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) um auf den offiziellen Firefox addon store zu kommen.
